@@ -1,0 +1,2 @@
+# baslercamera
+c++，mfc
